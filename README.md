@@ -31,17 +31,11 @@
 ![SewerGEMS](https://img.shields.io/badge/SewerGEMS-0066A1?style=flat&logo=bentley&logoColor=white)
 ![EPANET](https://img.shields.io/badge/EPANET-008080?style=flat&logo=water&logoColor=white)
 ![SWMM](https://img.shields.io/badge/SWMM-005F73?style=flat&logo=dropbox&logoColor=white)
-
----
-
 #### 🌍 GIS & Remote Sensing
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3bab3a?style=flat&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
 ![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-1F6E43?style=flat&logo=hexagon&logoColor=white)
-
----
-
 #### 🤖 Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
