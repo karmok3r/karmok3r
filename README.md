@@ -29,10 +29,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykarmoker&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykarmoker&layout=compact&theme=tokyonight)
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmok3r&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmok3r&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=udaykarmoker&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karmok3r&theme=darkhub)
