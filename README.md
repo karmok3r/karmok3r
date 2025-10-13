@@ -18,13 +18,38 @@
 ---
 
 ### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-3bab3a?style=flat&logo=qgis&logoColor=white)
+
+#### 🧱 Engineering & Design
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![SewerGEMS](https://img.shields.io/badge/SewerGEMS-0066A1?style=flat&logo=bentley&logoColor=white)
 ![EPANET](https://img.shields.io/badge/EPANET-008080?style=flat&logo=water&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-1F6E43?style=for-the-badge&logo=hexagon&logoColor=white)
+![SWMM](https://img.shields.io/badge/SWMM-005F73?style=flat&logo=dropbox&logoColor=white)
+
+---
+
+#### 🌍 GIS & Remote Sensing
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-3bab3a?style=flat&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
+![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-1F6E43?style=flat&logo=hexagon&logoColor=white)
+
+---
+
+#### 🤖 Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+
+---
+
+#### ✍️ Documentation & Writing
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+
 
 ---
 
