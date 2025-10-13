@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Uday Karmoker  
-💻 Civil Engineer | GIS & Web Developer | AI Enthusiast
+💻 Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 
 ---
 
@@ -14,6 +14,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karmok3r)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/karmok3r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/udaykarmoker)
+
+---
+
+## 📚 My Research Profiles
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oUKvVm8AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Uday-Karmoker-2)
 
 ---
 
@@ -48,7 +55,9 @@
 
 #### ✍️ Documentation & Writing
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-1F6E43?style=flat&logo=visualstudio&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
 
 
 ---
@@ -57,7 +66,4 @@
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmok3r&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmok3r&layout=compact&theme=tokyonight)
 
----
 
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karmok3r&theme=darkhub)
