@@ -21,10 +21,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3bab3a?style=flat&logo=qgis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SewerGEMS](https://img.shields.io/badge/SewerGEMS-0066A1?style=flat&logo=bentley&logoColor=white)
+![EPANET](https://img.shields.io/badge/EPANET-008080?style=flat&logo=water&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
 
 ---
 
