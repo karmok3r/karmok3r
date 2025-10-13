@@ -23,7 +23,8 @@
 ![QGIS](https://img.shields.io/badge/QGIS-3bab3a?style=flat&logo=qgis&logoColor=white)
 ![SewerGEMS](https://img.shields.io/badge/SewerGEMS-0066A1?style=flat&logo=bentley&logoColor=white)
 ![EPANET](https://img.shields.io/badge/EPANET-008080?style=flat&logo=water&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=flat&logo=esri&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-1F6E43?style=for-the-badge&logo=hexagon&logoColor=white)
 
 ---
 
