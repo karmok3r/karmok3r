@@ -1,12 +1,9 @@
 # Hi, I'm Uday Karmoker
 Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 
----
-
-### 🚀 About Me
-- 🎯 Passionate about spatial data, AI automation, and sustainability  
-- 🧠 Currently learning WebGIS & Machine Learning  
-- 🎨 Also enjoy design and content creation
+🎯 Passionate about spatial data, AI automation, and sustainability  
+🧠 Currently learning WebGIS & Machine Learning  
+🎨 Also enjoy design and content creation
 
 ---
 
@@ -14,11 +11,6 @@ Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karmok3r)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/karmok3r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/udaykarmoker)
-
----
-
-## 📚 My Research Profiles
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oUKvVm8AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Uday-Karmoker-2)
 
