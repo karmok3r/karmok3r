@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Uday Karmoker  
-💻 Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
+# Hi, I'm Uday Karmoker
+Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 
 ---
 
@@ -54,10 +54,5 @@
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
 
 
----
-
-### 📊 GitHub Stats
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmok3r&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmok3r&layout=compact&theme=tokyonight)
 
 
