@@ -13,7 +13,6 @@ Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Uday-Karmoker-2)
 
 ### 🧰 Tech Stack
-
 #### 🧱 Engineering & Design
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![SewerGEMS](https://img.shields.io/badge/SewerGEMS-0066A1?style=flat&logo=bentley&logoColor=white)
@@ -32,7 +31,6 @@ Civil Engineer | GIS-AI-ML Enthusiast | WASH Professional
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-
 #### ✍️ Documentation & Writing
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
